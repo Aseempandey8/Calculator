@@ -1,3 +1,3 @@
 # Calculator
 
-Simple Calculator Program using Html and Css
+Simple Calculator Program using Html,Css & Js.
